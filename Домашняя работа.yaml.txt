@@ -1,0 +1,13 @@
+SOLID
+
+block1: D - DIP - Dependency Inversion Principle
+block2: I - ISP - Interface Segregation
+block3: I - ISP - Interface Segregation
+block4: S - SRP - Single Responsibility Principle
+block5: L - LSP - Liskov Substitution Principle
+
+Не выделила для : 
+O - OCP - Open-Closed Principle
+
+
+
